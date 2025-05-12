@@ -1,1 +1,1 @@
-Java battleship game that implements I/O and file reading by playing with different boards made with .txt files. Feel free to play around with the different game.txt files provided. 
+Java battleship game that implements basic I/O, file reading, and exeption handling by playing with different boards made with .txt files. Feel free to play around with the different game.txt files provided. 
